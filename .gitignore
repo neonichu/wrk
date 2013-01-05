@@ -3,3 +3,5 @@
 *.iws
 target/
 *~
+*.class
+lib/wrk-1.0.jar
